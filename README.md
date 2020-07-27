@@ -1,4 +1,4 @@
-# cult-game
+# faithless
 
 ## Concept Statement
 
