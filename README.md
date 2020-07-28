@@ -2,6 +2,7 @@
 
 ## Concept Statement
 
+You were a cultist born into an underground cult set to take over the world by resurrecting ancient beasts long forgotten. Expressing doubt in the cult’s plan, you were tortured and exiled from the cult as they began the invasion on Earth. Betrayed and filled with rage, you decide to take your revenge on the cult you once pledged allegiance to and kill every last one of them. In Faithless, use skill, movement, and a combination of guns and spells to conquer your enemies. Explore the environments and look for secrets to find items and weapons to give yourself an advantage over the cultists. Will you stop the invasion and take your revenge, or will the cult use your suffering the take over the world?
 
 - Game Screenshots can be found
 [here]()
