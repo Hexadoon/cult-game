@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Concept Statement] (#concept-statement)
-- [Images] (#images)
+- [Concept Statement](#concept-statement)
+- [Images](#images)
 - [Installation](#installation)
 - [Controls](#movement-controls)
 - [Developers](#developers)
