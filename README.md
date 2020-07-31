@@ -7,16 +7,14 @@ You were a cultist born into an underground cult set to take over the world by r
 ## Table of Contents
 
 - [Installation](#installation)
-- [Controls](#controls)
-- [Developers](#devs)
+- [Controls](#movement-controls)
+- [Developers](#developers)
 
-<a name="installation"/>
 ## Installation
 
 - The playable files can be found 
 [here](https://drive.google.com/file/d/1rGo9SMMODpzRQ86u-RUIIaxLB9jQj_0J/view?usp=sharing)
 
-<a name="controls"/>
 ## Movement Controls
 
 W - Move Forward
@@ -33,7 +31,6 @@ Left Click - Shoot
 
 E - Use
 
-<a name="devs"/>
 ## Developers
 
 ### Software Developer
